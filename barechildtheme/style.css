@@ -1,0 +1,11 @@
+/*
+Theme Name: THEME Child
+Theme URI: http://www.heidipj.com/
+Version: 1.0
+Description: Designed by <a href="http://www.woothemes.com">Heidipj.com</a>.
+Author: Heidipj
+Author URI: http://www.heidipj.com
+Template: PARENT_THEME_NAME
+Tags: underscores
+*/
+@import url("../CHANGE_TO_THEME/style.css");
